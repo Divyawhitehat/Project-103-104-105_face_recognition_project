@@ -1,6 +1,7 @@
 body {
     color: white;
     background: pink;
+    text-align: center;
 }
 
 h3 {
@@ -8,5 +9,10 @@ h3 {
 }
 
 .name_of_object {
+   background: blue;
+}
+
+h3 {
+   width: 80%;
    background: blue;
 }
